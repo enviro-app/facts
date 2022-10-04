@@ -3,6 +3,9 @@
 This Repository contains a data of facts related to climate, nature, and our surrounding.
 Facts are collected from the different sources on the Internet.
 
+Structure `facts.json`
+- [fact,  title, image_url, source]
+
 ## Contributing
 - Fork this Repository.
 - Commit your changes.
