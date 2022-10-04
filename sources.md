@@ -1,3 +1,6 @@
 - conservation.org
 - weforum.org
 - sciencedirect.com
+- www.globalgiving.org
+- education.nationalgeographic.org
+- climate.nasa.gov
