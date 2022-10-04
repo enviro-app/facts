@@ -1,1 +1,3 @@
 - conservation.org
+- weforum.org
+- sciencedirect.com
